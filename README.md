@@ -15,7 +15,7 @@
 > AVSSA is an improved version of SSA that adapts variable control parameters dynamically.
 
 > It balances exploration and exploitation in the optimization process.
->
+
 > This prevents premature convergence and enhances global search ability.
 >
 > AVSSA uses adaptive coefficients to fine-tune position updates of sparrows.
