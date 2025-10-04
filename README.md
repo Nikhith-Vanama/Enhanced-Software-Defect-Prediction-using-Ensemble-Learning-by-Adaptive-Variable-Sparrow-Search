@@ -17,7 +17,7 @@
 > It balances exploration and exploitation in the optimization process.
 
 > This prevents premature convergence and enhances global search ability.
->
+
 > AVSSA uses adaptive coefficients to fine-tune position updates of sparrows.
 > 
 > It provides superior performance in classification and prediction tasks.
