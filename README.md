@@ -23,3 +23,5 @@
 > It provides superior performance in classification and prediction tasks.
 
 # Sparrow Search Algorithm (SSA)
+
+SSA is a swarm intelligence optimization algorithm inspired by sparrow foraging behavior.
