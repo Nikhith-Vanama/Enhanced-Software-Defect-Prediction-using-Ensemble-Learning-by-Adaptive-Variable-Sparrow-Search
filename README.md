@@ -25,3 +25,4 @@
 # Sparrow Search Algorithm (SSA)
 
 SSA is a swarm intelligence optimization algorithm inspired by sparrow foraging behavior.
+Sparrows are divided into producers and scroungers, each playing distinct roles.
