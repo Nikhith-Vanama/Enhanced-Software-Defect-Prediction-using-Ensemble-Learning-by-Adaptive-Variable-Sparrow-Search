@@ -28,3 +28,4 @@ SSA is a swarm intelligence optimization algorithm inspired by sparrow foraging 
 Sparrows are divided into producers and scroungers, each playing distinct roles.
 Producers search for food sources while scroungers follow them to exploit resources.
 The algorithm alternates between exploration (finding new areas) and exploitation (optimizing solutions).
+SSA is widely used in optimization due to its simplicity and efficiency.
