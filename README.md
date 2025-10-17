@@ -35,3 +35,7 @@
 > SSA is widely used in optimization due to its simplicity and efficiency.
 
 # Ensemble Learning Model (ELM)
+
+Ensemble learning combines multiple base classifiers into a single strong model.
+It reduces overfitting by aggregating diverse predictions from weak learners.
+Techniques like bagging, boosting, or stacking are commonly used.
