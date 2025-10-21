@@ -37,7 +37,6 @@
 # Ensemble Learning Model (ELM)
 
 > Ensemble learning combines multiple base classifiers into a single strong model.
-> It reduces overfitting by aggregating diverse predictions from weak learners.
-Techniques like bagging, boosting, or stacking are commonly used.
+> It reduces overfitting by aggregating diverse predictions from weak learners.Techniques like bagging, boosting, or stacking are commonly used.
 In defect prediction, ensemble learning improves classification stability.
 It ensures higher accuracy compared to single classifiers.
