@@ -43,5 +43,4 @@
 > Techniques like bagging, boosting, or stacking are commonly used.
 
 > In defect prediction, ensemble learning improves classification stability.
->
 > It ensures higher accuracy compared to single classifiers.
