@@ -46,4 +46,4 @@
 
 > It ensures higher accuracy compared to single classifiers.
 
-# 
+# Sparrow Eagle Algorithm (SEB)
