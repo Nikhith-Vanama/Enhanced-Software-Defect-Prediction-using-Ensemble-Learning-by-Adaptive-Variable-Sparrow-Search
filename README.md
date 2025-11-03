@@ -49,3 +49,4 @@
 # Sparrow Eagle Algorithm (SEB)
 
 SEB is a hybrid algorithm combining SSA with Eagle Strategy for optimization.
+Eagle Strategy uses Lévy flights for global exploration.
