@@ -47,3 +47,5 @@
 > It ensures higher accuracy compared to single classifiers.
 
 # Sparrow Eagle Algorithm (SEB)
+
+SEB is a hybrid algorithm combining SSA with Eagle Strategy for optimization.
