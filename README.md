@@ -50,3 +50,4 @@
 
 SEB is a hybrid algorithm combining SSA with Eagle Strategy for optimization.
 Eagle Strategy uses Lévy flights for global exploration.
+SSA contributes local search and exploitation capabilities.
