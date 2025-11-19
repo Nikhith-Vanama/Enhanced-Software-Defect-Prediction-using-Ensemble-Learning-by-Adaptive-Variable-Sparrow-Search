@@ -55,5 +55,4 @@
 > SSA contributes local search and exploitation capabilities.
  
 > Together, they balance wide search and fine-tuning efficiency.
-
 SEB achieves faster convergence with improved solution quality.
