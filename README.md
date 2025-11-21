@@ -59,3 +59,4 @@
 > SEB achieves faster convergence with improved solution quality.
 
 # Adaptive Variable Sparrow Eagle Algorithm (AVSEB)
+AVSEB enhances SEB by introducing adaptive variable controls.
