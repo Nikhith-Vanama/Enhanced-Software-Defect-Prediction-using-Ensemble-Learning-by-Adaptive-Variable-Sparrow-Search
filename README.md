@@ -59,5 +59,4 @@
 > SEB achieves faster convergence with improved solution quality.
 
 # Adaptive Variable Sparrow Eagle Algorithm (AVSEB)
-AVSEB enhances SEB by introducing adaptive variable controls.It dynamically adjusts exploration and exploitation during optimization.The algorithm prevents stagnation in local optima.
-
+AVSEB enhances SEB by introducing adaptive variable controls.It dynamically adjusts exploration and exploitation during optimization.The algorithm prevents stagnation in local optima.AVSEB provides strong convergence with robust search ability.
