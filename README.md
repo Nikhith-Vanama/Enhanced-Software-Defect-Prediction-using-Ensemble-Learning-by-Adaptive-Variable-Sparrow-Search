@@ -62,4 +62,5 @@
 
 AVSEB enhances SEB by introducing adaptive variable controls.
 It dynamically adjusts exploration and exploitation during optimization.
-The algorithm prevents stagnation in local optima.AVSEB provides strong convergence with robust search ability.It is highly effective in defect prediction and classification tasks.
+The algorithm prevents stagnation in local optima.
+AVSEB provides strong convergence with robust search ability.It is highly effective in defect prediction and classification tasks.
