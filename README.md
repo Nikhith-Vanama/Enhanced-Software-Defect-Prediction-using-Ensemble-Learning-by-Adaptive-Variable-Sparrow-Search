@@ -60,7 +60,7 @@
 
 # Adaptive Variable Sparrow Eagle Algorithm (AVSEB)
 
-AVSEB enhances SEB by introducing adaptive variable controls.
+> AVSEB enhances SEB by introducing adaptive variable controls.
 
 It dynamically adjusts exploration and exploitation during optimization.
 
