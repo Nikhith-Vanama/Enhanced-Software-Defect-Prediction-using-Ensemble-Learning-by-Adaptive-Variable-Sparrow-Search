@@ -64,7 +64,7 @@
  
 > It dynamically adjusts exploration and exploitation during optimization.
 
-The algorithm prevents stagnation in local optima.
+> The algorithm prevents stagnation in local optima.
 
 AVSEB provides strong convergence with robust search ability.
 
