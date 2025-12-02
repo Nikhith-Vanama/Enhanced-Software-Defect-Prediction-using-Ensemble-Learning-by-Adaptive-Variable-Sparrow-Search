@@ -66,4 +66,5 @@
 
 > The algorithm prevents stagnation in local optima.
 
-> AVSEB provides strong convergence with robust search ability.It is highly effective in defect prediction and classification tasks.
+> AVSEB provides strong convergence with robust search ability.
+> It is highly effective in defect prediction and classification tasks.
